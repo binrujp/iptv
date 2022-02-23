@@ -1,13 +1,30 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",凤凰香港
 http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",香港卫视
 https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",TV翡翠台
+http://iptv.tvfix.org/hls/jade_v.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",TVB J2
+http://iptv.tvfix.org/hls/j2_v.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",TVB 明珠台
+http://iptv.tvfix.org/hls/pearl2.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",无线新闻
+http://iptv.tvfix.org/hls/inews_v.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",无线财经资讯台
+http://iptv.tvfix.org/hls/finance_v.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="Self",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Self",CNBC Asia
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/768x432_1205600/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Self",France24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Self",Sky News
+https://siloh.pluto.tv/lilo/production/SkyNews/master_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Self",NBC News
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Self",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese tvg-logo="" group-title="Self",NHKWorld华语世界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
