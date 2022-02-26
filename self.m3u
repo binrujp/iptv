@@ -71,7 +71,7 @@ http://aliyun-stream.kksmg.com/live/dfws.m3u8?auth_key=1645855970-23082442-0-177
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",新闻综合
 http://aliyun-stream.kksmg.com/live/xwzh.m3u8?auth_key=1645856043-35844163-0-553178a6457acaab4c5d2ac83b1cf820&se=kankan&ct=7&_mode=1&_cp=1&_fk=932A0A8261AAA02C49F3CFEAAB5857EFF5D40727C136EB902F1F69FFCA20817B&ts=1645848841&rand=8b1a1e814e75bb857d40968f2183b44d
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",江苏卫视
-https://live-hls.jstv.com/livezhuzhan/jsws@jstv2m.m3u8?_alisec=16bcf9aed5441efb0c4ec9885289c4d0&upt=dc68a2fb1645849249
+https://live-hls.jstv.com/livezhuzhan/pili-live-rtmp.live-tv.jstv.com_jsws_qncodec_jstv2m-1645854429797.ts
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",浙江卫视
 http://yd-vl.cztv.com/channels/lantian/channel01/720p.m3u8?a=1000&d=1a840fb371bdbe6a742e9cc14fa59126&k=f2c373239c63bbd6d2d7a2b621022ea8&t=1645849230
 #EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese tvg-logo="" group-title="Self",NHKWorld华语世界
