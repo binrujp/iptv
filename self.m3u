@@ -4,14 +4,28 @@ rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?t
 rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500?t
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",大连三台
 rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500?t
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",CCTV3
+https://flv3948069e.live.126.net/live/73d19ccec2fd2415543e1c642a58494a.flv
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",CCTV5
 http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_mivmgrfu_keyC08A4931D3AD3B998DF9CF711357173202F28EFDE027EDE70C09C57A708F0E2EC9F4CB7F6219765A955FF3FD134F5E7D0B0EF7E92B9F907CF976ACD4C6C115B3ED7EA9C74ED2F32C7CBDE5856BA1B835CDD2CADA4E498A81379DE5A750A560B2439CD0413ED29050A0D65FD450CEFB68_/live/cctv5hd/4000000/d1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",CCTV5
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5hd/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",CCTV5+
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5phd/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",CCTV5+
+https://flv3948069e.live.126.net/live/662146ca286fd633ee47c106b15d4fec.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",CCTV5+
+https://flv3948069e.live.126.net/live/0da42720214c88ab6038ddb59929167f.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",CCTV6
+https://flv3948069e.live.126.net/live/038132ceb8e72b1b58aa12bba0e01f3d.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",CCTV8
+https://flv3948069e.live.126.net/live/f3770b6c88e1e99d85c1ba68cbc61cdb.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",CCTV9
+https://flv3948069e.live.126.net/live/dabf838d880ba306a6d8128ed2d57026.flv
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",CCTV13
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv13hd_bupt/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",CCTV13
+https://flv3948069e.live.126.net/live/9dcf7b71c2a3c6df5c42433c3cf204a5.flv
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",凤凰资讯
@@ -51,7 +65,27 @@ https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a82
 #EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Self",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Self",NHK World
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8G
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese tvg-logo="" group-title="Self",NHK World华语世界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Self",NHK G
+https://flv3948069e.live.126.net/live/c34a03efdd3aec7ab48a379807efa6e2.flv
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Self",NHK総合東京
+https://flv3948069e.live.126.net/live/8b201e324471a40cff3ec905cb7fc763.flv
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Self",NHKEテレ東京
+https://flv3948069e.live.126.net/live/9f6354adc6a63e3af1d9cbc0e0623345.flv
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Self",NHK BSプレミアム
+https://flv3948069e.live.126.net/live/027313becdc9e48835d8d9e5ae901ceb.flv
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Self",日テレ
+https://flv3948069e.live.126.net/live/eb571beb689fae2fc536cb6c5b911a4b.flv
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Self",TBS
+https://flv3948069e.live.126.net/live/4720141ce6bf0f1ba11b39c3c2b23f32.flv
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Self",TBSチャンネル１
+https://flv3948069e.live.126.net/live/8389d03c82fb4262a3d50aa623d690ec.flv
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Self",フジテレビ
+https://flv3948069e.live.126.net/live/b09ef134d802f10b7b2a8f024e51a8a6.flv
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Self",テレビ東京
+https://flv3948069e.live.126.net/live/4cc2326fb01ddddda3327f727b8e23ac.flv
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",CCTV1
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv1hd/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",CCTV1
@@ -74,8 +108,20 @@ http://aliyun-stream.kksmg.com/live/xwzh.m3u8?auth_key=1645856043-35844163-0-553
 https://live-hls.jstv.com/livezhuzhan/pili-live-rtmp.live-tv.jstv.com_jsws_qncodec_jstv2m-1645854429797.ts
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",浙江卫视
 http://yd-vl.cztv.com/channels/lantian/channel01/720p.m3u8?a=1000&d=1a840fb371bdbe6a742e9cc14fa59126&k=f2c373239c63bbd6d2d7a2b621022ea8&t=1645849230
-#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese tvg-logo="" group-title="Self",NHKWorld华语世界
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",东森电影台
+https://flv3948069e.live.126.net/live/c8aadbb9876f9aa9d89aed8b5b9a84e1.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",东森新闻台
+https://flv3948069e.live.126.net/live/fb154e481c6dd845ffd8a2a3942983c4.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",东森综合台
+https://flv3948069e.live.126.net/live/6ebbecfbda0d7c8688af99cee2db566a.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",东森幼幼台
+https://flv3948069e.live.126.net/live/4f11d974f59e6a9193fb811829cb5032.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",纬来综合台
+https://flv3948069e.live.126.net/live/c8c395e5a1f8fe1528c6b218dbb35e93.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",纬来电影台
+https://flv3948069e.live.126.net/live/f6ea10cb12ff8fa3fb1e6183059d8965.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",RHK32
+https://flv3948069e.live.126.net/live/0a5277f67cc16d2534995e3165b84645.flv
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",TVBS新闻
 http://iptv.tvfix.org/hls/tvbsnews_v.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",三立都会
@@ -96,3 +142,5 @@ https://4gtvfreehinetpc-cds.cdn.hinet.net/live/pool/litv-ftv13/4gtv-live-mid/lit
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1645849266~exp=1645935666~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=6df6f77ee05b275b8c8036a15ae84b0f5b4bebc8f0106e0b466205b0ae52a1c8&p=3139
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",无线新闻台
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1645849362~exp=1645935762~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=f29b2fad116076e012f77c52998408d388a5214abe563011418404b9a1f53b8f&p=3139
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",美亚电影
+https://flv3948069e.live.126.net/live/dec55428372ace99d6add078f3200701.flv
