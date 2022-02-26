@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",大连一台
-rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?
+rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?t
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",大连二台
 rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500?t
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",大连三台
