@@ -114,7 +114,23 @@ http://seb.sason.top/sc/tsxw_fhd.m3u8
 https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",民视新闻台
 https://4gtvfreehinetpc-cds.cdn.hinet.net/live/pool/litv-ftv13/4gtv-live-mid/litv-ftv13-audio_20000=137000-video=800000.m3u8?token=cDvDHo7lCkPH4NnvS37oDw&expires=1645892592&token1=S3aw96fHIFaQedXHypc5XQ&expires1=1645892592
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",无线财经资讯台
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1645849266~exp=1645935666~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=6df6f77ee05b275b8c8036a15ae84b0f5b4bebc8f0106e0b466205b0ae52a1c8&p=3139
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",无线新闻台
-https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1645849362~exp=1645935762~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=f29b2fad116076e012f77c52998408d388a5214abe563011418404b9a1f53b8f&p=3139
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",東森新聞
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",東森財經新聞
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",民視
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",民視台灣
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",民視第一
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",華視新聞資訊
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",壹電視新聞台
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",大愛1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",大愛2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",大立電視
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
