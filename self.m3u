@@ -16,6 +16,10 @@ https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5phd/hls.m3u8
 http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229684/42330389.smil/1000.m3u8?IASHttpSessionId=OTT5856720220226103454010582&zte_bandwidth=1000&bandwidth=8000512&ispcode=26&timeformat=local&channel=3221229684&fmt=ts2hls&m3u8_level=2&ztecid=3221229684
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",CCTV13
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv13hd_bupt/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",CCTV13
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",CCTV13
+http://stream4.jlntv.cn/cctv13/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",凤凰资讯
@@ -92,6 +96,8 @@ http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221
 http://yd-vl.cztv.com/channels/lantian/channel01/720p.m3u8?a=1000&d=1a840fb371bdbe6a742e9cc14fa59126&k=f2c373239c63bbd6d2d7a2b621022ea8&t=1645849230
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/360p.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",湖南卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",TVBS新闻
 http://iptv.tvfix.org/hls/tvbsnews_v.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",三立都会
