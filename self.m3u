@@ -71,7 +71,7 @@ https://playfdcusa.olelive.olevod.tv:6443/tv/cctv16hd_bupt/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",辽宁卫视
 http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230692/42330389.smil/1000.m3u8?IASHttpSessionId=OTT5863120220223091621001457&zte_bandwidth=1000&bandwidth=2625536&ispcode=26&timeformat=local&channel=3221230692&fmt=ts2hls&m3u8_level=2&ztecid=3221230692
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",浙江卫视
-http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230692/42330389.smil/1000.m3u8?IASHttpSessionId=OTT5752620220225102644009274&zte_bandwidth=1000&bandwidth=2508800&ispcode=26&timeformat=local&channel=3221230692&fmt=ts2hls&m3u8_level=2&ztecid=3221230692
+http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228324/42330389.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",湖南卫视
 http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228336/42330389.smil/1000.m3u8?IASHttpSessionId=OTT5751420220226102224009878&ztecid=3221228336&bandwidth=8001536&ispcode=26&timeformat=local&channel=3221228336&fmt=ts2hls&m3u8_level=2&zte_bandwidth=1000
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",北京卫视
@@ -81,11 +81,11 @@ http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",吉林卫视
 http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232764/42330389.smil/1000.m3u8?IASHttpSessionId=OTT5831020220226102844009631&ztecid=3221232764&bandwidth=2069504&ispcode=26&timeformat=local&channel=3221232764&fmt=ts2hls&m3u8_level=2&zte_bandwidth=1000
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",第一财经
-https://ycallive.yicai.com/live/cbn_yld.m3u8?auth_key=1645906178-0-0-eefee77c69c88ad0fd52c89656677b4b&ycfrom=yicaiwww
+https://www.yicai.com/api/dycj/liveIndex.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",第一财经
 http://112.25.48.68/live/program/live/dycjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",东方财经
-https://ycallive.yicai.com/live/dftv1_yld.m3u8?auth_key=1645935506-0-0-c63f971623a5d88153b5d227d31d799b&ycfrom=yicaiwww
+https://www.yicai.com/api/dfcj/liveIndex.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",江苏卫视
 http://39.134.184.95:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228351/42330389.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",浙江卫视
