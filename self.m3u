@@ -56,14 +56,18 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Self",Sky News
 https://siloh.pluto.tv/lilo/production/SkyNews/master_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Self",ABC News
-https://www.youtube.com/watch?v=w_Ma8oQLmSM
+#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://i.imgur.com/7sJLzKi.png" group-title="Self",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://i.imgur.com/v48mMRT.png" group-title="Self",NBC News Now
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Self",NBC News
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Self",DW FHD
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Self",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/GpgrYCb.png" group-title="Self",ABC News(Australia)
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://i.imgur.com/N3xiz4m.png" group-title="Self",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-name="BBC Home" tvg-logo="https://i.imgur.com/Ii8DX1x.png" group-title="Self",BBC Home
@@ -74,19 +78,17 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese tvg-logo="" group-title="Self",NHK World华语世界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-name="ANN News Ⓨ" tvg-logo="https://i.imgur.com/9IVsFXz.png" group-title="Japan",ANN News
-https://youtu.be/coYw-eVU0Ks
-#EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/tVNZ0BU.png" group-title="Japan",日テレNEWS24
+#EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/tVNZ0BU.png" group-title="Self",日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
-#EXTINF:-1 tvg-name="Tokyo MX1" tvg-logo="https://i.imgur.com/ghRFrKj.png" group-title="Japan",Tokyo MX1
+#EXTINF:-1 tvg-name="Tokyo MX1" tvg-logo="https://i.imgur.com/ghRFrKj.png" group-title="Self",Tokyo MX1
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
-#EXTINF:-1 tvg-name="Gunma TV" tvg-logo="https://i.imgur.com/Fik3Nm9.png" group-title="Japan",Gunma TV
+#EXTINF:-1 tvg-name="Gunma TV" tvg-logo="https://i.imgur.com/Fik3Nm9.png" group-title="Self",Gunma TV
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-#EXTINF:-1 tvg-name="Weathernews" tvg-logo="https://i.imgur.com/7YLRtla.png" group-title="Japan",Weathernews
+#EXTINF:-1 tvg-name="Weathernews" tvg-logo="https://i.imgur.com/7YLRtla.png" group-title="Self",Weathernews
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:-1 tvg-name="GSTV" tvg-logo="https://i.imgur.com/0wds9n8.png" group-title="Japan",GSTV
+#EXTINF:-1 tvg-name="GSTV" tvg-logo="https://i.imgur.com/0wds9n8.png" group-title="Self",GSTV
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="QVC Ⓢ" tvg-logo="https://i.imgur.com/B74hZKd.png" group-title="Japan",QVC
+#EXTINF:-1 tvg-name="QVC Ⓢ" tvg-logo="https://i.imgur.com/B74hZKd.png" group-title="Self",QVC
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="Self",CCTV1
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv1hd/hls.m3u8
