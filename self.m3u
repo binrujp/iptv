@@ -56,6 +56,8 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_
 http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="英文",BBC World News(576P)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="英文",BBC World News
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="英文",CNBC Asia
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/768x432_1205600/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="英文",France24
