@@ -2,7 +2,7 @@
 rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500?t
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="大连",大连二台
 rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500?t
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="大连",大连三台
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="大连",大连四台
 rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500?t
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="央视",CCTV5
 http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_mivmgrfu_keyC08A4931D3AD3B998DF9CF711357173202F28EFDE027EDE70C09C57A708F0E2EC9F4CB7F6219765A955FF3FD134F5E7D0B0EF7E92B9F907CF976ACD4C6C115B3ED7EA9C74ED2F32C7CBDE5856BA1B835CDD2CADA4E498A81379DE5A750A560B2439CD0413ED29050A0D65FD450CEFB68_/live/cctv5hd/4000000/d1.m3u8
@@ -52,6 +52,8 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_30
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="英文",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="英文",CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="" group-title="英文",FOX News
 http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="英文",BBC World News(576P)
@@ -93,13 +95,17 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese tvg-logo="" group-title="日本",NHK World华语世界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",NHK G
-http://51.79.193.108:8080/hls/j00033/index.m3u8
+https://nhk1.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",NHK G
-http://51.79.193.108:8080/hls/j00032/index.m3u8
+http://iptv.tvfix.org/hls/nhkg.m3u8
 #EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/tVNZ0BU.png" group-title="日本",日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
+#EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/tVNZ0BU.png" group-title="日本",日テレNEWS24
+https://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 tvg-name="Tokyo MX1" tvg-logo="https://i.imgur.com/ghRFrKj.png" group-title="日本",Tokyo MX1
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+#EXTINF:-1 tvg-name="Tokyo MX1" tvg-logo="https://i.imgur.com/ghRFrKj.png" group-title="日本",Tokyo MX2
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 #EXTINF:-1 tvg-name="Gunma TV" tvg-logo="https://i.imgur.com/Fik3Nm9.png" group-title="日本",Gunma TV
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 #EXTINF:-1 tvg-name="Weathernews" tvg-logo="https://i.imgur.com/7YLRtla.png" group-title="日本",Weathernews
@@ -112,6 +118,8 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv1hd/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="央视",CCTV1
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv1hd/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="央视",CCTV1
+http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="央视",CCTV6
 https://playfdcusa.olelive.olevod.tv:6443/tv/cctv6hd/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="央视",CCTV10
