@@ -104,6 +104,8 @@ http://iptv.tvfix.org/hls/nhkg2.m3u8
 http://iptv.tvfix.org/hls/nhke2.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",NHK E
 http://iptv.tvfix.org/hls/nhke.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="日本",Star 1
+http://51.79.193.108:8080/hls/j00019/index.m3u8?type=jp
 #EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/tVNZ0BU.png" group-title="日本",日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
 #EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/tVNZ0BU.png" group-title="日本",日テレNEWS24
