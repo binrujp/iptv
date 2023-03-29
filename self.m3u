@@ -23,19 +23,21 @@ http://stream4.jlntv.cn/cctv13/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="央视",CCTV13
 http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰资讯
+rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰香港
+rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰香港
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰资讯
+http://210.210.155.37/qwr9ew/s/s21/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰香港
+http://210.210.155.37/uq2663/h/h157/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰资讯
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰资讯
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰资讯
-http://iptv.tvfix.org/hls/fhzx.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰香港
-http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰香港
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1-1645787629.ts
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰香港
-http://iptv.tvfix.org/hls/fhzw.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",香港卫视
-https://al-pull2.hkatv.vip/live/hktv20210929.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",TV翡翠台
 http://iptv.tvfix.org/hls/jade_v.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",TVB J2
