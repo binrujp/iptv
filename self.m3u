@@ -23,13 +23,13 @@ http://stream4.jlntv.cn/cctv13/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="央视",CCTV13
 http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰资讯
-https://pull-l3-cny.douyincdn.com/live/stream-19882782023042119282.m3u8
+http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰资讯
-rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
+http://stream.guihet.com/t/ifeng2.php?id=1?zgangd
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰香港
-rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
+http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+http://117.169.124.146:8080/live/fhzixun/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰香港
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰资讯
@@ -37,7 +37,7 @@ http://210.210.155.37/qwr9ew/s/s21/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰香港
 http://210.210.155.37/uq2663/h/h157/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",凤凰资讯
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="港台",TV翡翠台
