@@ -1,9 +1,11 @@
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="央视",CCTV-1综合 (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视频道",CCTV-1综合 (1080p)
 http://play.kankanlive.com/live/1698234869325962.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" group-title="央视",CCTV-1综合 (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="央视",CCTV-1综合 (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://vnet.one/data/iptv/cctv/cctv1.png" group-title="央视频道",CCTV-1 综合 https://tv.vnet.one/p-channel/450215437/cctv1
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://vnet.one/data/iptv/cctv/cctv5.png" group-title="央视频道",CCTV-5 体育 https://tv.vnet.one/p-channel/450215437/cctv5
+#EXTINF:-1 tvg-id="" tvg-logo="https://vnet.one/data/iptv/cctv/cctv1.png" group-title="央视频道",CCTV-1 综合
+https://tv.vnet.one/p-channel/450215437/cctv1
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://vnet.one/data/iptv/cctv/cctv5.png" group-title="央视频道",CCTV-5 体育
+https://tv.vnet.one/p-channel/450215437/cctv5
 #EXTINF:-1 tvg-name="CCTV5Plus" tvg-logo="https://vnet.one/data/iptv/cctv/cctv5plus.png" group-title="央视频道",CCTV-5 体育赛事 https://tv.vnet.one/p-channel/450215437/cctv5plus
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://vnet.one/data/iptv/cctv/cctv8.png" group-title="央视频道",CCTV-8 电视剧 https://tv.vnet.one/p-channel/450215437/cctv8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://vnet.one/data/iptv/cctv/cctv9.png" group-title="央视频道",CCTV-9 纪录 https://tv.vnet.one/p-channel/450215437/cctv9
