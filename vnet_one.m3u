@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://vnet.one/data/iptv/cctv/cctv1.png" group-title="央视频道",CCTV-1 综合 https://tv.vnet.one/p-channel/450215437/cctv1 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://vnet.one/data/iptv/cctv/cctv5.png" group-title="央视频道",CCTV-5 体育 https://tv.vnet.one/p-channel/450215437/cctv5
 #EXTINF:-1 tvg-name="CCTV5Plus" tvg-logo="https://vnet.one/data/iptv/cctv/cctv5plus.png" group-title="央视频道",CCTV-5 体育赛事 https://tv.vnet.one/p-channel/450215437/cctv5plus 
