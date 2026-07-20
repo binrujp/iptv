@@ -32,3 +32,63 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://vnet.one/data/iptv/cctv/cgtn-a.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="" group-title="CDN",凤凰中文
+https://cdn.qd.je/163189/fhzw
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="" group-title="CDN",凤凰资讯
+https://cdn.qd.je/163189/fhzx
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="" group-title="CDN",凤凰香港
+https://cdn.qd.je/163189/fhhk
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="" group-title="CDN",CCTV5
+https://cdn.qd.je/163189/cctv5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="" group-title="CDN",CCTV5"
+https://cdn.qd.je/163189/cctv5-2
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="" group-title="CDN",CCTV5+"
+https://cdn.qd.je/163189/cctv5p
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="" group-title="CDN",CCTV5+"
+https://cdn.qd.je/163189/cctv5p-2
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="" group-title="CDN",CCTV13
+https://cdn.qd.je/163189/cctv13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="" group-title="CDN",CCTV13
+https://cdn.qd.je/163189/cctv13-2
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="" group-title="CDN",CCTV16
+https://cdn.qd.je/163189/cctv16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="" group-title="CDN",CCTV16
+https://cdn.qd.je/163189/cctv16-2
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="" group-title="CDN",五星体育
+https://cdn.qd.je/163189/wxty
+#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="" group-title="CDN",NOW新闻台
+https://cdn.qd.je/163189/now
+#EXTINF:-1 tvg-name="TVB1" tvg-logo="" group-title="CDN",TVB1
+https://cdn.qd.je/163189/tvb1
+#EXTINF:-1 tvg-name="TVBj1" tvg-logo="" group-title="CDN",TVBj1
+https://cdn.qd.je/163189/j1
+#EXTINF:-1 tvg-name="翡翠剧集台" tvg-logo="" group-title="CDN",翡翠剧集台
+https://cdn.qd.je/163189/tvbd
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="" group-title="CDN",翡翠台
+https://cdn.qd.je/163189/fct
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="" group-title="CDN",无线新闻台
+https://cdn.qd.je/163189/wxxw
+#EXTINF:-1 tvg-name="八度空间" tvg-logo="" group-title="CDN",八度空间
+https://cdn.qd.je/163189/8tv
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="" group-title="CDN",广东体育
+https://cdn.qd.je/163189/gdty
+#EXTINF:-1 tvg-name="CH5" tvg-logo="" group-title="CDN",CH5
+https://cdn.qd.je/163189/ch5
+#EXTINF:-1 tvg-name="CH8" tvg-logo="" group-title="CDN",CH8
+https://cdn.qd.je/163189/ch8
+#EXTINF:-1 tvg-name="CHU" tvg-logo="" group-title="CDN",CHU
+https://cdn.qd.je/163189/chu
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="" group-title="CDN",龙华电影
+https://cdn.qd.je/163189/lhdy
+#EXTINF:-1 tvg-name="龙华经典" tvg-logo="" group-title="CDN",龙华经典
+https://cdn.qd.je/163189/lhjd
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="" group-title="CDN",龙华日韩
+https://cdn.qd.je/163189/lhrh
+#EXTINF:-1 tvg-name="亚洲武侠" tvg-logo="" group-title="CDN",亚洲武侠
+https://cdn.qd.je/163189/yzwx
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="" group-title="CDN",TVB星河
+https://cdn.qd.je/163189/xinghe
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="" group-title="CDN",天映频道
+https://cdn.qd.je/163189/typd
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="" group-title="CDN",天映经典
+https://cdn.qd.je/163189/ccm
